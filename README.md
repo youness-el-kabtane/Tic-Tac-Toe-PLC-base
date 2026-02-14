@@ -8,7 +8,7 @@
 -   CPU: S7-300 (CPU 314C-2 PN/DP)
 -   SIMATIC MP 177 6" Touch
 ## Variables Tables
-![enter image description here](#)
+![enter image description here](https://github.com/youness-el-kabtane/Tic-Tac-Toe-PLC-base/blob/e68015ea32ec1b9fa35ce1e7eab2d7864f791b7e/image/Screenshot2.png)
 ## Program Description
 ### FC1
 FC1 contains the main game logic written in Structured Control Language (SCL).  
