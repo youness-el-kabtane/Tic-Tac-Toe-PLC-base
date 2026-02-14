@@ -10,7 +10,7 @@
 ## Variables Tables
 ![enter image description here](https://github.com/youness-el-kabtane/Tic-Tac-Toe-PLC-base/blob/e68015ea32ec1b9fa35ce1e7eab2d7864f791b7e/image/Screenshot2.png)
 ## Program Description
-### FC1
+### FC1 - (SCL)
 FC1 contains the main game logic written in Structured Control Language (SCL).  
 It checks all possible winning combinations for both players:
 -   3 horizontal lines
@@ -70,8 +70,8 @@ END_IF;
 
 END_FUNCTION
 ```
-### OB1
-![enter image description here](#)
+### OB1 - (LAD)
+![enter image description here](https://github.com/youness-el-kabtane/Tic-Tac-Toe-PLC-base/blob/3a47338c010380f9b33f811e970a46f7fa5b4513/image/Screenshot3.png)
 -   FC1 is called every PLC scan cycle, so the win conditions are continuously evaluated.
 - In OB1, a **Clear** button resets the game by setting memory bytes MB0 to MB3 to zero, clearing all grid positions in a single scan cycle.
 
