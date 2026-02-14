@@ -1,6 +1,6 @@
 # Tic-Tac-Toe PLC Base
 ## Project Overview
-![enter image description here](#)
+![enter image description here](https://github.com/youness-el-kabtane/Tic-Tac-Toe-PLC-base/blob/85f854fe1695fc6b6ac11c5b798a898c55422c36/image/Screenshot1.png)
 > A simple Tic-Tac-Toe game built using a Siemens PLC and STEP 7. This
 > project was built to experiment with STL programming and strengthen my
 > automation logic design skills.
